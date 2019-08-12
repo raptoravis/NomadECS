@@ -1,6 +1,7 @@
 #include <iostream>
 #include <memory>
-#include "nomadecs/nomad.h"
+//#include "nomadecs/nomad.h"
+#include "nomad.h"
 
 using namespace nomad;
 
